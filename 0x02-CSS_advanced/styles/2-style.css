@@ -1,11 +1,13 @@
-/* style2 */
-
 html {
   scroll-behavior: smooth;
 }
 
 body {
   color: 161616;
+}
+
+a {
+  color: #161616;
 }
 
 .visually-hidden {
