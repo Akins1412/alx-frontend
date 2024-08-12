@@ -23,6 +23,7 @@
   --section-tagline-transform: uppercase;
   --section-title-margin: 0;
   --section-title-color: var(--color-black);
+  --text-decoration: underline;
 }
 
 html {
@@ -40,7 +41,7 @@ body {
 
 a {
   color: #161616;
-  text-decoration: none;
+  text-decoration: var(--text-decoration);
 }
 
 a:active {
