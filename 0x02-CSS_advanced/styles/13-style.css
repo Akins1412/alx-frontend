@@ -42,15 +42,15 @@ a {
   text-decoration: none;
 }
 
-a:active {
+a[href]:active {
   background-color: var(--color-light-grey);
 }
 
-a:hover {
+a[href]:hover {
   text-decoration: underline;
 }
 
-a:visited {
+a[href]:visited {
   font-style: italic;
 }
 
