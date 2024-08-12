@@ -1,3 +1,4 @@
+/* Pseudo Classes */
 :root {
   --color-primary: #d73953;
   --color-black: #090909;
@@ -37,7 +38,6 @@ body {
   line-height: var(--line-height-base);
 }
 
-/* Anchor styling */
 a {
   color: #161616;
   text-decoration: none;
